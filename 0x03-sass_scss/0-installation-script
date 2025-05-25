@@ -1,0 +1,22 @@
+Steps I Took to Install SASS
+============================
+
+1. Opened the project folder:
+   - Navigated into the `alx-intermediate-frontend` repository.
+
+2. Created a new directory for Sass/SCSS tasks:
+   - Directory name: `0x03-sass_scss`
+
+3. Installed Sass (local setup):
+   - Since Node.js was already installed, I ran the following command:
+     
+     npm install sass -v 3.7.4
+
+   - This installs Sass version 3.7.4 into the project.
+
+4. Created a documentation file:
+   - I then created the file `0-installation-script` where I have documented the installation procedure (this file).
+
+Note:
+-----
+This setup allows you to compile Sass using the locally installed version.
